@@ -1,4 +1,4 @@
-## Voting system
+## Url shortener
 
 
 This project was a solution to the challenge proposed on [GitHub repository](https://github.com/backend-br/desafios/blob/master/url-shortener/PROBLEM.md), where the goal was to create a service that would
